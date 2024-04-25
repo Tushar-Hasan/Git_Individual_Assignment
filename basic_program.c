@@ -17,3 +17,5 @@ int factorial( int n) {
     }
     return result;
 }
+
+// This line is to created a commit from feature-branch to simulate  a critical fix commit.
