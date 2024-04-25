@@ -18,7 +18,6 @@ int factorial( int n) {
     return result;
 }
 
-<<<<<<< HEAD
 void fibonacci(int n) {
     int fib[100]; // Assuming we won't exceed 100 Fibonacci numbers
     fib[0] = 0;
@@ -27,6 +26,3 @@ void fibonacci(int n) {
     for (int i = 2; i < n; ++i) {
         fib[i] = fib[i - 1] + fib[i - 2];
     }
-=======
-// This line is to created a commit from feature-branch to simulate  a critical fix commit.
->>>>>>> f0ca809 (critical fix commit)
